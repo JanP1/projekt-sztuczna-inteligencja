@@ -1,0 +1,13 @@
+.list-container {
+    padding: 20px;
+    background-color: #1f2765;
+    color: #ffffff;
+    border-radius: 5px;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  
+.list-content {
+  margin: 0 auto;
+}

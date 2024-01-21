@@ -1,0 +1,30 @@
+.simulation-container {
+  height: auto;
+  width: 300px;
+  padding: 20px;
+  background-color: #1f2765;
+  color: #ffffff;
+  border-radius: 5px;
+  text-align: center;
+  margin: 20px;
+  display: inline-block;
+}
+
+.content {
+  margin: 0 auto;
+}
+
+button {
+  font-weight: 700;
+  background-color: #3bac6c;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #edb6d2;
+}

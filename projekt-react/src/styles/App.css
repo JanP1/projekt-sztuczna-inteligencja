@@ -1,0 +1,18 @@
+body {
+    padding: 20px;
+    background-color: #1a1c33;
+    color: aquamarine;
+}
+
+.app-container {
+    text-align: left;
+    display: flex;
+  }
+
+.app-container > *:not(:last-child) {
+    margin-right: 20px; 
+}
+
+.half-width {
+    flex: 1;
+  }
